@@ -4,7 +4,7 @@
 
 ## Français
 
-Bienvenue dans cette version **portable** de TLauncher, conçue pour être utilisée depuis une clé USB.
+Bienvenue dans cette version **portable** de TLauncher, conçue pour être utilisée depuis une clé USB **uniquement sur PC (Windows)**.
 
 ### Important :  
 Pour démarrer correctement le launcher, **veuillez toujours exécuter le fichier `start_game.vbs`**.  
@@ -34,7 +34,7 @@ Ce script lance `Start2.bat` en arrière-plan, sans afficher la fenêtre de comm
 
 ## English
 
-Welcome to this **portable** version of TLauncher, designed to run from a USB drive.
+Welcome to this **portable** version of TLauncher, designed to run from a USB drive **on PC (Windows) only**.
 
 ### Important:  
 To correctly start the launcher, **always run the `start_game.vbs` file**.  
